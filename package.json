@@ -1,0 +1,30 @@
+{
+  "name": "getting-rttex",
+  "version": "1.0.0",
+  "description": "Tool for getting RTTEX on cdn url",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTPSHAX/Getting-RTTEX.git"
+  },
+  "keywords": [
+    "tools",
+    "tool",
+    "rttex",
+    "growtopia",
+    "gtps"
+  ],
+  "author": "MasAli",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/GTPSHAX/Getting-RTTEX/issues"
+  },
+  "homepage": "https://github.com/GTPSHAX/Getting-RTTEX#readme",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "fs": "^0.0.1-security"
+  }
+}
